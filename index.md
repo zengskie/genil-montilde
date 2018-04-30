@@ -2,122 +2,81 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[View Project List](./another-page.html)
 
-[Link to another page](./another-page.html).
+## Education 
 
-There should be whitespace between paragraphs.
+> **Carage State University** - Ampayon Butuan City <br />
+> B.S., Information Technology <strong>(BSIT)<strong> 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Skills 
 
-# Header 1
+> * Agile Methodology: Scrum 
+* Team Management 
+* Repository: Bitbucket 
+* Database: MySQL, Microsoft SQL Server, PostgreSQL 
+* Back End: PHP, Ruby 
+* Framework: CodeIgniter, Laravel, Ruby on Rails 
+* API Development 
+* Third Party Integration: DragonPay, Global Payment,
+Paypal, Stamps 
+* Front End: HTML5, CSS3, Javascript, jQuery, Sass,
+Twitter
+Bootstrap, Angular 2, Webpack 
+* WordPress Theme Development 
+* Design: Photoshop
+* Wireframe Prototyping 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Experience 
+> **Compass Call Hub Inc.** - Pasig City, Philippines <br />
+June 2017 – Present <br />
+Web Developer <br />
+* Web Developer Specialized in API development for web and mobile application 
+* Third party API integration: Global Payment, Stamps Shipping Integration 
+* Product maintenance and support 
 
-## Header 2
+***
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> **Skyrocket Studios PH Inc.** - Makati City, Philippines <br />
+Oct 2014 – May 2017 <br />
+Sr. Software Engineer <br />
+* Team Lead managing 8 developers 
+* Project Management and monitoring
+* API Integrations 
+* System Analysis and Design 
+* Product Training and Installations 
+* Assisting HR in technical interviews 
 
-### Header 3
+***
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+> **Pentana Solutions Inc. Philippines** - Makati City, Philippines <br />
+April 2012 – April 2014 <br />
+Installation Consultant <br />
+* Provide quality technical support for EraLink Plus, an ERP system for the
+car dealership  
+* Form design artworks for all of the transaction documents 
+* Electronic DocuSmart Installation for printing solution (hardware and
+software integration) 
+* Provide proper technical advice to end users  
+* Product Training and Installations 
+* Assisting HR in technical interviews 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+*** 
 
-#### Header 4
+> **Glocorp IT Solutions Inc.** - Makati City, Philippines <br />
+April 2010 – April 2012 <br />
+Assistant System Analyst <br />
+* Organized the planning and design for customized web applications   
+* Provide web application training to stakeholders 
+* Promoted from Software Assurance Specialist to Assistant System Analyst 
+* Reduced bugs through clear instructions and proper technical documentation
+* Product Training and Installations 
+* Come up with an effective guidelines in the quality assurance of web applications for Online Hotel Reservation, E-commerce and Content Management Systems
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+***
 
-##### Header 5
+## Interest 
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+> Travel, Entrepreneurship, Technology, Philosophy, Psychology and Culinary Arts.
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[View Project List](./another-page.html)
