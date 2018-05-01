@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[View Project List](./another-page.html)
+[View Project List](./project-list.html)
 
 ## Education 
 
@@ -79,4 +79,4 @@ Assistant System Analyst <br />
 
 > Travel, Entrepreneurship, Technology, Philosophy, Psychology and Culinary Arts.
 
-[View Project List](./another-page.html)
+[View Project List](./project-list.html)
